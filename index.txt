@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>นายณัฐพล สมบัตินันท์ 60020637</h2>
+<img src="img1.jpg" wigth="200" higth="300">
+
+</body>
+</html>
